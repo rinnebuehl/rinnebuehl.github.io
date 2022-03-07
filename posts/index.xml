@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Rinnebuehl.de</title>
-        <link>https://rinnebuehl.de/</link>
-        <description>Rinnebuehl.de</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 13:35:16 &#43;0100</lastBuildDate>
-            <atom:link href="https://rinnebuehl.de/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Rinnebuehl.de</title>
+        <link>https://rinnebuehl.de/posts/</link>
+        <description>All Posts | Rinnebuehl.de</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 13:35:16 &#43;0100</lastBuildDate><atom:link href="https://rinnebuehl.de/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Duschhalbe</title>
     <link>https://rinnebuehl.de/posts/duschalbe/</link>
     <pubDate>Sun, 06 Mar 2022 13:35:16 &#43;0100</pubDate>
